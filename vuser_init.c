@@ -11,7 +11,7 @@
 	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 	
-	/******Recent Updated: 14 May 2025 Save *******/
+	/******Recent Updated: 14 May Month 2025 Save *******/
 	
 	return 0;
 }
